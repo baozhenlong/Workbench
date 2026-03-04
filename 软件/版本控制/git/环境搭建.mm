@@ -154,6 +154,141 @@
 </node>
 </node>
 </node>
+<node TEXT="Windows" POSITION="bottom_or_right" ID="ID_1893633972" CREATED="1769167678405" MODIFIED="1769167690453">
+<node ID="ID_632050869" CREATED="1769167696109" MODIFIED="1769167767092"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167695100-5209">
+      查询并记录&#xa0;github.com ip 地址
+    </div>
+  </body>
+</html>
+</richcontent>
+<node TEXT="查询网址" ID="ID_1013747204" CREATED="1769167724967" MODIFIED="1769167738433" LINK="https://ping.chinaz.com/">
+<node TEXT="输入" ID="ID_1204087892" CREATED="1769167744794" MODIFIED="1769167747803">
+<node ID="ID_699265758" CREATED="1769167750037" MODIFIED="1769167750037"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167749363-4084">
+      github.com
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_569743855" CREATED="1769167753579" MODIFIED="1769167753579"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167752049-2330">
+      Ping 检测
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="记录延迟最小的 ip" ID="ID_403816434" CREATED="1769167754818" MODIFIED="1769167761905"/>
+</node>
+<node TEXT="hosts 文件" ID="ID_949813654" CREATED="1769167768363" MODIFIED="1769167778296">
+<node ID="ID_740493757" CREATED="1769167781953" MODIFIED="1769167781953"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167780978-7173">
+      打开
+    </div>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_423726779" CREATED="1769167783916" MODIFIED="1769167783916"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167783094-6070">
+      C:\Windows\System32\drivers\etc
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1842080402" CREATED="1769167785914" MODIFIED="1769167785914"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167785116-390">
+      在末尾加入一行上述查询到的 ip 地址
+    </div>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1919141799" CREATED="1769167788166" MODIFIED="1769167788166"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167787539-936">
+      20.205.243.166 github.com
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_512846543" CREATED="1769167792566" MODIFIED="1769167792566"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167791225-3004">
+      cmd
+    </div>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_490820056" CREATED="1769167795653" MODIFIED="1769167795653"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div xmind-vk-rich-text-fragment-id="1769167794738-1896">
+      ipconfig /flushdns
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="配置" POSITION="bottom_or_right" ID="ID_1175034526" CREATED="1766646781335" MODIFIED="1766646782503">
 <node ID="ID_296276262" CREATED="1766646800206" MODIFIED="1766646808525"><richcontent TYPE="NODE">
 
